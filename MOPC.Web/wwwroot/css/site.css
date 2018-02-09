@@ -33,3 +33,79 @@
         display: none;
     }
 }
+
+
+#administracion{
+    /*background-image: url("../img/carretera.min.jpg");*/
+    background-color: #208ab8;
+    background-size: cover;
+}
+
+#comentario{
+    height: 100px;
+}
+
+.rowsformulario{
+    margin-bottom: 10px;
+}
+
+#paginainfo{
+    /*background-image: url("../img/road-02-min.jpg");*/
+    background-color: #208ab8;
+    background-size: cover;
+}
+
+#contenido{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 90%;
+    text-align: justify;
+    padding: 30px 30px 30px 30px;
+    background-color: white;
+    border-radius: 6px;
+    opacity: 0.90;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 98%;
+}
+
+.element {
+    position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(-50%);
+}
+
+.imagencentrada{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centralizado{
+    text-align: center;
+}
+.autosizeimage{
+    width: 100%;
+    height: auto;
+}
+
+.button {
+    background-color: #EB7B19;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.padding5{
+    padding: 10px 10px 10px 10px;
+}
